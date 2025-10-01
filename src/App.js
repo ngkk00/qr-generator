@@ -260,6 +260,10 @@ function App() {
           )}
         </div>
       )}
+      <footer style={{ marginTop: "40px", fontSize: "14px", color: "#555" }}>
+        Please avoid uploading sensitive information. This tool is free to use, and we do not store your files.
+      </footer>
+
     </div>
   );
 }
